@@ -1,2 +1,6 @@
 # hello-world
-my first repository
+Hello giters.
+You wish you could be,
+as raw as me,
+I come from the K-A-N-K-A-Kee
+
